@@ -189,17 +189,9 @@ quora-question-pairs/
 
 ### 2️⃣ Create a virtual environment (recommended)
 
-**Windows:**
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
 
-**macOS / Linux:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
+
+
 
 ### 3️⃣ Install the required libraries
 
