@@ -185,12 +185,7 @@ quora-question-pairs/
 - pip
 - Git
 
-### 1️⃣ Clone the repository
 
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
 
 ### 2️⃣ Create a virtual environment (recommended)
 
